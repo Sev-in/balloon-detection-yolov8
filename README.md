@@ -56,6 +56,7 @@ mAP50-95: 0.76
 
 Ortalama inference süresi: ~5–25 ms
 Gerçek zamanlı çalışmaya uygundur
+
 ---
 🚀 ONNX Dönüşümü
 
@@ -69,12 +70,14 @@ yolo export model=best.pt format=onnx
 Model, balon tespiti için yüksek doğruluk elde etmiştir ve:
 
 Gerçek zamanlı uygulamalarda kullanılabilir
-Tek sınıflı detection senaryoları için uygundur
+Tek sınıflı detection senaryoları için uygundur.
+
 ---
 📌 Not
 
 Model yalnızca balon tespiti için eğitilmiştir.
 Farklı nesneler için yeniden eğitim gereklidir.
+
 ---
 👨‍💻 Geliştirici
 
