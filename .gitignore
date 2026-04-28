@@ -1,0 +1,28 @@
+# datasets
+dataset_merged/
+datasets_raw/
+
+# training outputs
+runs/
+src/runs
+
+Notlar/
+
+# model files
+*.pt
+*.onnx
+
+# python cache
+__pycache__/
+*.pyc
+
+# env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/

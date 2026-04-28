@@ -1,0 +1,9 @@
+path: C:/Users/ASUS/Desktop/Celik_kubbe/AI_egitim/dataset_merged
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names:
+  0: balloon
